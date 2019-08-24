@@ -14,4 +14,4 @@ Output: For each algorithm, two files are generated.
 
 Report: Explanation about design of the program and a comparision between both the algorithms.
 
-**To know about how to execute the programs, read Assgn1Readme-CS17BTECH11011.txt**
+To know about how to execute the programs, read **Assgn1Readme-CS17BTECH11011.txt**.
