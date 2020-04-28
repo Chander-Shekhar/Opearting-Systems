@@ -1,1 +1,1 @@
-# Opearting-Systems Assignments(IITH)
+# Operating-Systems Assignments(IITH)
